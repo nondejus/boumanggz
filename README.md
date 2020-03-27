@@ -1,2 +1,0 @@
-# boumanggz
-main function
